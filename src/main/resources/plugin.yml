@@ -1,0 +1,10 @@
+name: VoteRestart
+version: ${project.version}
+main: io.github.mazkaaa.voterestart.VoteRestart
+api-version: 1.13
+authors: [mazkaaa]
+description: Vote Restart
+commands:
+  voterestart:
+    description: Start the voting
+depend: [Essentials]
