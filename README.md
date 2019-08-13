@@ -1,2 +1,2 @@
 # Vote Restart
- Vote system for reboot the minecraft server.
+ Vote system for rebooting the minecraft server.
